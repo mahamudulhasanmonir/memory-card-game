@@ -81,8 +81,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Live Demo
 
-Check out the live demo of the game [here](https://your-username.github.io/memory-card-game) (if deployed)
-
+I didn't hosted this anywhere so try locally 🙃🤪
 ## Acknowledgments
 
 - Emojis provided by the Unicode Consortium
